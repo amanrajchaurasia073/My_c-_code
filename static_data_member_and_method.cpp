@@ -4,6 +4,7 @@ class Emp
 {
     int id;
     static int v;
+    // int v=0;
 
 public:
     void setdata(void);
